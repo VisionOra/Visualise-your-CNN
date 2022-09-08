@@ -1,0 +1,7 @@
+keras==2.10.0
+matplotlib==3.5.3
+matplotlib-inline==0.1.6
+numpy==1.23.2
+scikit-image==0.19.3
+scikit-learn==1.1.2
+tensorflow==2.10.0
